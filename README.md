@@ -1,5 +1,5 @@
 # 💫 Hi, I am Chaitanya Khotele
-💫 About Me:<br>🔭 I’m currently working at Midbrains Technologies Pune, India<br>👯 Building something amazing and looking for like-minded collaborators!<br>🌱 I’m currently learning Spring Boot and React js<br>💬 Ask me about Java Development and Related Technologies<br>⚡ Fun fact I use tabs over spaces
+💫 About Me:<br>🔭 I’m currently working at Unified Mentor Tech Gurugram, India<br>👯 Building something amazing and looking for like-minded collaborators!<br>🌱 I’m currently learning Spring Boot and Angular js<br>💬 Ask me about Java Development and Related Technologies<br>⚡ Fun fact I use tabs over spaces
 
 
 ## 🌐 Socials:
